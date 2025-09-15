@@ -1,1 +1,0 @@
-tempature = float(input("What is the patients tempature?:"))
